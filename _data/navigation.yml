@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /markdown-cv/
 
   - title: "Publications"
     url: /publications/
@@ -14,6 +14,9 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Apps"
+    url: https://apps.simonliu.dev
 
   # - title: "Blog Posts"
   #   url: /year-archive/
