@@ -4,19 +4,29 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello! I am a postbaccalaureate fellow at the National Human Genome Research
+Institute in the Medical Genomics Unit under Dr. Benjamin Solomon. I am
+interested in machine learning and deep learning algorithms that improve patient
+outcomes. My recent work involves applying natural language processing to public
+and private datasets to build models for extracting patient and language
+annotators.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I received a B.S. in Biomedical Engineering from the Johns Hopkins University
+in 2021 and completed major requirements for Computer Science. I was also
+nominated along with several other members of Health 3D for the Linda Trinh
+Memorial Award for our work in manufacturing face shields and other PPE for the
+Johns Hopkins Hospital System during the summer of 2020.</p>
+
+<p>I have published several articles and also received the JHU AY 2021 Provost's
+Undergraduate Research Award. For a complete list of my publications, please
+refer to my <a href="https://simonliu.dev/markdown-cv">CV</a> or
+<a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en">Google
+Scholar</a>.</p>
+
+<p>In my spare time, I enjoy tinkering with servers and electronics in my homelab,
+managing a small server stack I use to host numerous services and game servers.
+Notable services include PiHole DNS, Bitwarden, Authelia, and Plex. I also enjoy
+weightlifting and hiking among other outdoor activities.</p>
 
 <h2>Skills</h2>
 

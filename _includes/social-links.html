@@ -2,38 +2,50 @@
 
 <div class="social-links">
     {% if site.facebook %}
-        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">
-            <i class="fa-brands fa-facebook"></i>
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener" title="Facebook">
+            <i class="fa-brands fa-facebook fa-2x"></i>
         </a>
     {% endif %}
 
     {% if site.twitter %}
-        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">
-            <i class="fa-brands fa-twitter"></i>
+        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" title="Twitter">
+            <i class="fa-brands fa-twitter fa-2x"></i>
         </a>
     {% endif %}
 
     {% if site.instagram %}
-        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-instagram"></i>
+        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener" title="Instagram">
+            <i class="fa-brands fa-instagram fa-2x"></i>
         </a>
     {% endif %}
 
     {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-linkedin"></i>
+        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener" title="LinkedIn">
+            <i class="fa-brands fa-linkedin fa-2x"></i>
         </a>
     {% endif %}
 
     {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-github"></i>
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank"  rel="noopener" title="GitHub">
+            <i class="fa-brands fa-github fa-2x"></i>
         </a>
     {% endif %}
 
     {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
-            <i class="fa-regular fa-envelope"></i>
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener" title="Personal Email">
+            <i class="fa-solid fa-envelope fa-2x"></i>
+        </a>
+    {% endif %}
+
+    {% if site.orcid %}
+        <a class="link" data-title="orcid.com/{{ site.orcid }}" href="https://orcid.org/{{ site.orcid }}" target="_blank"  rel="noopener" title="ORCID">
+            <i class="fa-brands fa-orcid fa-2x"></i>
+        </a>
+    {% endif %}
+
+    {% if site.google-scholar %}
+        <a class="link" data-title="{{ site.google-scholar }}" href="{{ site.google-scholar }}" target="_blank"  rel="noopener">
+            <i class="fa-solid fa-graduation-cap fa-2x"></i>
         </a>
     {% endif %}
 </div>
