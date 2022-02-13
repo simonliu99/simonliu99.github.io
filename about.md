@@ -25,10 +25,10 @@ Scholar</a>.</p>
 
 <p>In my spare time, I enjoy tinkering with servers and electronics in my homelab,
 managing a small server stack I use to host numerous services and game servers.
-Notable services include PiHole DNS, Bitwarden, Authelia, and Plex. I also enjoy
+Notable inclusions are PiHole DNS, Bitwarden, Authelia, and Plex. I also enjoy
 weightlifting and hiking among other outdoor activities.</p>
 
-<h2>Skills</h2>
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -52,4 +52,4 @@ weightlifting and hiking among other outdoor activities.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
