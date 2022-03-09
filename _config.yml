@@ -117,7 +117,8 @@ compress_html:
     envs:
       - development
       - stage
-
+include:
+  - files
 exclude:
   [
     "README.md",
