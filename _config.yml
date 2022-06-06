@@ -1,9 +1,9 @@
 # main text of home
 title: Simon Liu
-bio: biomedical engineer, data scientist<br>aspiring physician-scientist
+bio: biomedical engineer | data scientist & archivist<br>aspiring physician-scientist
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Fixing the world one project at a time
 
 # if it's an external image, update below for true
 # better with square images
@@ -45,7 +45,7 @@ google-scholar: https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en
 authors:
   simonliu:
     name: Simon Liu
-    bio: biomedical engineer, aspiring physician-scientist
+    bio: biomedical engineer & aspiring physician-scientist
     external-image: false
     picture: assets/images/profile.png
     # twitter: johndoe
