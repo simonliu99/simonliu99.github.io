@@ -19,7 +19,7 @@ Johns Hopkins Hospital System during the summer of 2020.</p>
 
 <p>I have published several articles and also received the JHU AY 2021 Provost's
 Undergraduate Research Award. For a complete list of my publications, please
-refer to my <a href="https://simonliu.dev/markdown-cv">CV</a> or
+refer to my <a href="https://simonliu.dev/cv">CV</a> or
 <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en">Google
 Scholar</a>.</p>
 
