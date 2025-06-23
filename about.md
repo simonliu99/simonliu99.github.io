@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hello! I am a first-year medical student at the [David Geffen School of Medicine](https://medschool.ucla.edu) at the 
+Hello! I am a second-year medical student at the [David Geffen School of Medicine](https://medschool.ucla.edu) at the 
 University of California Los Angeles. I am interested in machine learning and deep learning algorithms that improve 
 patient outcomes. My recent work involves applying natural language processing and image classiciation for data 
 extraction and disease identifiction. I was previously a postbaccalaureate fellow at the [National Human Genome Research 
@@ -22,8 +22,7 @@ complete list of my publications, please refer to my [CV](https://simonliu.dev/c
 [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ).
 
 In my spare time, I enjoy tinkering with servers and electronics in my homelab, managing a large server stack I use to 
-host numerous services and game servers. Notable inclusions are Adguard Home DNS, Bitwarden, Wireguard, and Plex. I also 
-enjoy weightlifting and kayaking among other outdoor activities.
+host numerous services and game servers. I also enjoy weightlifting and kayaking among other outdoor activities.
 
 <!-- <h2>Skills</h2>
 
