@@ -4,10 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hello! I am a second-year medical student at the [David Geffen School of Medicine](https://medschool.ucla.edu) at the 
+Hello! I am a third-year medical student at the [David Geffen School of Medicine](https://medschool.ucla.edu) at the 
 University of California Los Angeles. I am interested in machine learning and deep learning algorithms that improve 
-patient outcomes. My recent work involves applying natural language processing and image classiciation for data 
-extraction and disease identifiction. I was previously a postbaccalaureate fellow at the [National Human Genome Research 
+patient outcomes. My recent work involves applying natural language processing and image classification for data 
+extraction and disease identification. I was previously a postbaccalaureate fellow at the [National Human Genome Research 
 Institute](https://www.genome.gov) in the Medical Genomics Unit under 
 [Dr. Benjamin Solomon](https://www.genome.gov/staff/Benjamin-Solomon-MD).
 
@@ -17,7 +17,7 @@ Trinh Memorial Award for our work in manufacturing face shields and other PPE fo
 during the summer of 2020.
 
 I have published several articles and also received the JHU AY 2021 Provost's Undergraduate Research Award to pursue an 
-independent research project in developing novel image processing algorithms for an implantable cranial device.. For a 
+independent research project in developing novel image processing algorithms for an implantable cranial device. For a 
 complete list of my publications, please refer to my [CV](https://simonliu.dev/cv) or
 [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ).
 
